@@ -1,0 +1,21 @@
+{
+    "name": "mrthebank/truewallet",
+    "description": "PHP Package - TrueWallet Gift Code",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ponlapat Ittiratchapong",
+            "email": "webmaster@maxnus.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MrTheBank\\TrueWallet\\": "src"
+        }
+    }
+}
